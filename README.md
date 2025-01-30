@@ -1,14 +1,8 @@
-# moment3
+# Moment 3 i kursen Fullstack-utveckling med ramverk (DT193G)
 
-This template should help get you started developing with Vue 3 in Vite.
+Denna laboration är en Vue-app som låter besökare spara filmer som dom har eller inte har sett.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+Publicerad laboration: https://fullstack-moment3-xjkp.vercel.app/
 
 ## Project Setup
 
